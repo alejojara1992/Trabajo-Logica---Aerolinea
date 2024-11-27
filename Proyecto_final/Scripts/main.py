@@ -6,6 +6,7 @@ from loguru import logger
 import general_functions as gf
 from transformation_functions import PandasBaseTransformer as PBT
 from gestion_fbo import GestionFBO, GenerarMenusFBO
+print("Hello world!")
 
 CONFIG = "config.yml"
 
